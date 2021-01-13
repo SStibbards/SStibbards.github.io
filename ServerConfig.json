@@ -1,0 +1,4 @@
+{
+	"authUrl":"https://ovr-dev.eu.auth0.com/oauth/token",
+	"baseUrl":"https://dev-admin.oxfordvr.uk/api"
+}
