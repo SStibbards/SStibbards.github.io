@@ -1,4 +1,6 @@
 {
 	"authUrl":"https://ovr-dev.eu.auth0.com/oauth/token",
-	"baseUrl":"https://dev-admin.oxfordvr.uk/api"
+	"baseUrl":"https://dev-admin.oxfordvr.uk/api",
+	"audience":"https://dev-admin.oxfordvr.uk/api/",
+	"clientId":"fsbtJD1mYRVFH5faDI3TUgWqczDr5Bti"
 }
