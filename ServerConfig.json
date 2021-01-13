@@ -1,6 +1,8 @@
 {
-	"authUrl":"https://ovr-dev.eu.auth0.com/oauth/token",
-	"baseUrl":"https://dev-admin.oxfordvr.uk/api",
-	"audience":"https://dev-admin.oxfordvr.uk/api/",
-	"clientId":"fsbtJD1mYRVFH5faDI3TUgWqczDr5Bti"
+	"deviceCodeUrl":"https://ovr-dev.eu.auth0.com/oauth/device/code",
+	"tokenUrl":"https://ovr-dev.eu.auth0.com/oauth/token",
+	"hubUrl":"https://ovrvrintegration.azure-devices.net",
+	"deviceUrl":"https://dev-api.oxfordvr.uk/devicemanager/v1/",
+	"audience":"https://dev-api.oxfordvr.uk/devicemanager/",
+	"clientId":"97s1sEagVRnf4UIjlOri7Nn0Jp4NNFty"
 }
